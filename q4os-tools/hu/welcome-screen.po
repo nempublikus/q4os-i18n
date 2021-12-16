@@ -44,7 +44,7 @@ msgstr ""
 msgid "<p>Automatic login is now disabled.</p>"
 msgstr ""
 
-msgid "<p>Automatic login is now enabled.</p>"
+msgid "<p>Automatikus bejelentkezés most engedélyezve.</p>"
 msgstr ""
 
 msgid "<p>Desktop effects have been disabled.</p>"
@@ -92,7 +92,7 @@ msgstr ""
 msgid "Autologin configuration"
 msgstr ""
 
-msgid "Automatic login"
+msgid "Automatikus bejelentkezés"
 msgstr ""
 
 msgid "Bourbon"
@@ -101,22 +101,22 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-msgid "Categories"
+msgid "Kategóriák"
 msgstr ""
 
-msgid "Classic"
+msgid "Klasszikus"
 msgstr ""
 
 msgid "Classic style cascading menu"
 msgstr ""
 
-msgid "Desktop effects"
+msgid "Asztal effektusok"
 msgstr ""
 
 msgid "Documents online"
 msgstr ""
 
-msgid "Donate to Q4OS"
+msgid "Pénz adományozás a Q4OS számára"
 msgstr ""
 
 msgid "Enable Autologin"
@@ -149,10 +149,10 @@ msgstr ""
 msgid "Menu items organized by Categories"
 msgstr ""
 
-msgid "Menu structure"
+msgid "Menü szerkezet"
 msgstr ""
 
-msgid "Menu type"
+msgid "Menü típus"
 msgstr ""
 
 msgid "More options  >"
@@ -203,7 +203,7 @@ msgstr ""
 msgid "Warning !"
 msgstr ""
 
-msgid "Welcome screen"
+msgid "Üdvözlő képernyő"
 msgstr ""
 
 msgid "Working ..."
