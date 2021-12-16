@@ -102,7 +102,7 @@ msgstr ""
 msgid "Downloading packages ... Done"
 msgstr ""
 
-msgid "Enter your password to continue:"
+msgid "A folytatáshoz adja meg jelszavát:"
 msgstr ""
 
 msgid "Extracting archive ..."
@@ -111,10 +111,10 @@ msgstr ""
 msgid "Extracting archive ... Done"
 msgstr ""
 
-msgid "Fast system checks"
+msgid "Gyors rendszerellenőrzés"
 msgstr ""
 
-msgid "Finish >"
+msgid "Befejezve >"
 msgstr ""
 
 msgid "Finishing installation ..."
@@ -123,13 +123,13 @@ msgstr ""
 msgid "Get permissions"
 msgstr ""
 
-msgid "I Agree"
+msgid "Egyetértek"
 msgstr ""
 
-msgid "If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install _SUBST_SWNAME_ software."
+msgid "Ha elfogadja a szerződés feltételeit, kattintson az Elfogadom gombra a folytatáshoz. El kell fogadnia a szerződést a _SUBST_SWNAME_ szoftver telepítéséhez."
 msgstr ""
 
-msgid "Install >"
+msgid "Telepítés >"
 msgstr ""
 
 msgid "Installation successfully completed :-)"
@@ -144,19 +144,19 @@ msgstr ""
 msgid "Installing files ... OK"
 msgstr ""
 
-msgid "License Agreement"
+msgid "Licensz szerződés"
 msgstr ""
 
 msgid "License text ..."
 msgstr ""
 
-msgid "Next >"
+msgid "Következő >"
 msgstr ""
 
 msgid "Package system ... Busy !"
 msgstr ""
 
-msgid "Package system not consistent ..."
+msgid "A csomag rendszer nem consistent ..."
 msgstr ""
 
 msgid "Package system still not consistent, canceling installation ..."
@@ -174,7 +174,7 @@ msgstr ""
 msgid "Please wait while software is being installed"
 msgstr ""
 
-msgid "Postinstall operations ..."
+msgid "Telepítés utáni műveletek ..."
 msgstr ""
 
 msgid "Postinstall operations ... Done"
@@ -201,16 +201,16 @@ msgstr ""
 msgid "Q4OS Install System v0.2.0"
 msgstr ""
 
-msgid "Recovered ... OK"
+msgid "Helyreállítva ... OK"
 msgstr ""
 
 msgid "Registering application ... OK"
 msgstr ""
 
-msgid "Searching for language packages ..."
+msgid "Nyelvi csomagok keresése ..."
 msgstr ""
 
-msgid "Searching for language packages ... Done"
+msgid "Nyelvi csomagok keresése ... Elkészült"
 msgstr ""
 
 msgid "Setup action:"
@@ -255,7 +255,7 @@ msgstr ""
 msgid "Update system cache ... Done"
 msgstr ""
 
-msgid "Verified ... OK"
+msgid "Ellenőrízve ... OK"
 msgstr ""
 
 msgid "Waiting to complete current operation ... Done"
